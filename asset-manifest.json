@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wcoding-18/static/css/main.d37665ae.css",
+    "main.js": "/wcoding-18/static/js/main.5a105aee.js",
+    "static/js/787.ca3bc620.chunk.js": "/wcoding-18/static/js/787.ca3bc620.chunk.js",
+    "index.html": "/wcoding-18/index.html",
+    "main.d37665ae.css.map": "/wcoding-18/static/css/main.d37665ae.css.map",
+    "main.5a105aee.js.map": "/wcoding-18/static/js/main.5a105aee.js.map",
+    "787.ca3bc620.chunk.js.map": "/wcoding-18/static/js/787.ca3bc620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37665ae.css",
+    "static/js/main.5a105aee.js"
+  ]
+}
